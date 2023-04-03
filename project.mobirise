@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DO POZYCJIONOWANIE",
-    "currentPage": "certyfikaty handtmann.html",
+    "currentPage": "serwis handtmann.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -49,13 +49,13 @@
     "imageResize": false,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/czytelny_3.jpg",
-    "mbrsiteDomain": "xs0d5gecvt",
+    "mbrsiteDomain": "ux6mrqzwyi",
     "usedWebp": false,
-    "robotsSwitcher": true,
+    "robotsSwitcher": false,
     "sitemapSwitcher": true,
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": false,
     "siteUrl": "https://serwis-hex.pl/sitemap.xml",
-    "robotsText": "User-agent: *\nDisallow:\nDisallow: /cgi-bin/\nSitemap: https://serwis-hex.pl/sitemap.xml\n\n",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
