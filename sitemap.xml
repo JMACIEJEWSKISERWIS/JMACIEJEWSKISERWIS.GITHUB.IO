@@ -6,12 +6,12 @@
 		<loc>https://serwis-hex.pl/sitemap.xml/oferta.html</loc>
 	</url>
 	<url>
+		<loc>https://serwis-hex.pl/sitemap.xml/certyfikaty.html</loc>
+	</url>
+	<url>
+		<loc>https://serwis-hex.pl/sitemap.xml/home.html</loc>
+	</url>
+	<url>
 		<loc>https://serwis-hex.pl/sitemap.xml/kontakty.html</loc>
-	</url>
-	<url>
-		<loc>https://serwis-hex.pl/sitemap.xml/serwis handtmann.html</loc>
-	</url>
-	<url>
-		<loc>https://serwis-hex.pl/sitemap.xml/certyfikaty handtmann.html</loc>
 	</url>
 </urlset>
