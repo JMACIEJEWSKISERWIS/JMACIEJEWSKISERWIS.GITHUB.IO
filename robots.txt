@@ -1,4 +1,2 @@
 User-agent: *
-Disallow:
-Disallow: /cgi-bin/
-Sitemap: https://serwis-hex.pl/sitemap.xml
+Disallow: /cgi-bin
