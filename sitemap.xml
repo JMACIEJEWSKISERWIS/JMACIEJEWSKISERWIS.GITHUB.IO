@@ -9,27 +9,32 @@
 
 <url>
   <loc>https://serwis-hex.pl/</loc>
-  <lastmod>2023-04-03T14:13:08+00:00</lastmod>
+  <lastmod>2023-11-23T16:31:52+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://serwis-hex.pl/index.html</loc>
-  <lastmod>2023-04-03T14:13:08+00:00</lastmod>
+  <lastmod>2023-11-23T16:31:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://serwis-hex.pl/oferta.html</loc>
-  <lastmod>2023-04-03T14:13:08+00:00</lastmod>
+  <lastmod>2023-11-23T16:31:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://serwis-hex.pl/certyfikaty%20handtmann.html</loc>
-  <lastmod>2023-04-03T14:13:08+00:00</lastmod>
+  <loc>https://serwis-hex.pl/certyfikaty_handtmann.html</loc>
+  <lastmod>2023-11-23T16:31:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://serwis-hex.pl/elektronika.html</loc>
+  <lastmod>2023-11-23T16:31:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://serwis-hex.pl/kontakty.html</loc>
-  <lastmod>2023-04-03T14:13:08+00:00</lastmod>
+  <lastmod>2023-11-23T16:31:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
